@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there I'm Rob 👋
+I'm currently finishing my A Levels in CS, Maths, Further Maths, and Physics. I'm planning to study pure mathematics and university but still regularly program in my free time and enjoy using python for mathematical modelling.
+### Languages and Frameworks I've Learnt:
+- JavaScript and TypeScript using [Node.js](https://node.js.org/) and more recently [Bun](https://bun.sh)
+- Mathematical modelling in Python using [Matplotlib](https://matplotlib.org/) for visualisations
+- Basics of Java OOP after completeing a Java MOOC (<https://java-programming.mooc.fi/>)
+- Fundementals of C
 
-<!--
-**BHASVIC-RobertSimmons23/BHASVIC-RobertSimmons23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects and Code I've written:
+- Pathfinding algorithms in Typescript ([repo](https://github.com/BHASVIC-RobertSimmons23/pathfinding/tree/master))
+- Collection of small Little Man Computer Assembly programs ([repo](https://github.com/BHASVIC-RobertSimmons23/LittleManComputer))
+- Numerical Methods in Maths using Python ([repo](https://github.com/BHASVIC-RobertSimmons23/PythonModelling/tree/main))
+- Completed [AdventOfCode](https://adventofcode.com/) 2023 and 2024, finishing top of my college's leaderboard!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
