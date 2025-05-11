@@ -10,5 +10,6 @@ I'm currently finishing my A Levels in CS, Maths, Further Maths, and Physics. I'
 - Pathfinding algorithms in Typescript ([repo](https://github.com/BHASVIC-RobertSimmons23/pathfinding/tree/master))
 - Collection of small Little Man Computer Assembly programs ([repo](https://github.com/BHASVIC-RobertSimmons23/LittleManComputer))
 - Numerical Methods in Maths using Python ([repo](https://github.com/BHASVIC-RobertSimmons23/PythonModelling/tree/main))
+- Java MOOC ([repo](https://github.com/BHASVIC-RobertSimmons23/JavaMOOC))
 - Completed [AdventOfCode](https://adventofcode.com/) 2023 and 2024, finishing top of my college's leaderboard!
 
